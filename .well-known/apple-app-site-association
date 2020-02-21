@@ -1,0 +1,41 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "X9VU63VRPN.com.turvo.mobile.turvo.dev",
+                "paths": [
+                    "*"
+                ]
+            },
+            {
+                "appID": "LEW757B6JF.com.turvo.mobile.turvo",
+                "paths": [
+                    "*"
+                ]
+            },
+            {
+                "appID": "LEW757B6JF.com.turvo.mobile.driver.dev",
+                "paths": [
+                    "*"
+                ],
+                "components": [
+                    {
+                        "/": "/invite-driver"
+                    }
+                ]
+            },
+            {
+                "appID": "LEW757B6JF.com.turvo.mobile.driver",
+                "paths": [
+                    "*"
+                ],
+                "components": [
+                    {
+                        "/": "/invite-driver"
+                    }
+                ]
+            }
+        ]
+    }
+}
